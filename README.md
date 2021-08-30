@@ -32,3 +32,4 @@ Interpreting the coefficients:
 <center><img src="assets/residual_histogram.png" alt="logo"></center>
 
 ## Regression Evaluation Metrics
+<center><img src="assets/metrics.png" alt="logo"></center>
