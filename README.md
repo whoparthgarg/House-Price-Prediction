@@ -7,7 +7,7 @@ git clone https://github.com/whoparthgarg/House-Price-Prediction
 ```
 
 ## Data-set Examination 
-The data-set is CSV format shown below:
+The data-set in CSV format shown below:
 <center><img src="assets/dataset.png" alt="logo"></center>
 
 * The training data-set has 3000 samples, 5 features and 1 target variable.
