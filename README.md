@@ -6,7 +6,15 @@ Created a linear regression model to predict house prices based on existing feat
 git clone https://github.com/whoparthgarg/House-Price-Prediction
 ```
 
-## Dataset
+## Data-set Examination 
+The data-set is CSV format shown below:
+<center><img src="assets/dataset.png" alt="logo"></center>
+
+* The training data-set has 3000 samples, 5 features and 1 target variable.
+* The test data-set has 2000 samples and 5 features.
+* The target variable is the price.
+
+The data-set is available here:
 https://github.com/whoparthgarg/House-Price-Prediction/blob/main/USA_Housing.csv
 
 ## Exploratory Data Analysis
