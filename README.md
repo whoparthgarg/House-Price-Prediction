@@ -17,16 +17,16 @@ https://github.com/whoparthgarg/House-Price-Prediction/blob/main/USA_Housing.csv
 ## Model Evaluation
 <center><img src="assets/model_evaluation.png" alt="logo"></center>
 
-## Predictions
-<center><img src="assets/predictions.png" alt="logo"></center>
-
 Interpreting the coefficients:
 
-*All features fixed, a 1 unit increase in Avg. Area Income is associated with an increase of \$21.52 .
-*All features fixed, a 1 unit increase in Avg. Area House Age is associated with an increase of \$164883.28 .
-*All features fixed, a 1 unit increase in Avg. Area Number of Rooms is associated with an increase of \$122368.67 .
-*All features fixed, a 1 unit increase in Avg. Area Number of Bedrooms is associated with an increase of \$2233.80 .
-*Allfeatures fixed, a 1 unit increase in Area Population is associated with an increase of \$15.15 .
+* All features fixed, a 1 unit increase in Avg. Area Income is associated with an increase of \$21.52 .
+* All features fixed, a 1 unit increase in Avg. Area House Age is associated with an increase of \$164883.28 .
+* All features fixed, a 1 unit increase in Avg. Area Number of Rooms is associated with an increase of \$122368.67 .
+* All features fixed, a 1 unit increase in Avg. Area Number of Bedrooms is associated with an increase of \$2233.80 .
+* All features fixed, a 1 unit increase in Area Population is associated with an increase of \$15.15 .
+
+## Predictions
+<center><img src="assets/predictions.png" alt="logo"></center>
 
 ## Residual Histogram
 <center><img src="assets/residual_histogram.png" alt="logo"></center>
