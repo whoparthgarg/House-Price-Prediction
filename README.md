@@ -2,7 +2,6 @@
 Created a linear regression model to predict house prices based on existing features.
 
 ## Installation and Setup
-* Fork the repo and clone it.
 ```
 git clone https://github.com/whoparthgarg/House-Price-Prediction
 ```
